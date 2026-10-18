@@ -1,0 +1,5 @@
+# Purpose-selected Flathub app IDs
+org.kde.krita
+org.blender.Blender
+org.mozilla.firefox
+com.opera.opera-gx
