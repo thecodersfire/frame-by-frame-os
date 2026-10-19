@@ -20,3 +20,20 @@ org.gnome.TextEditor
 org.gnome.Calculator
 org.gnome.baobab
 org.gnome.Logs
+
+# Fifteen additional preinstalled purpose-specific applications
+com.orama_interactive.Pixelorama
+org.synfig.SynfigStudio
+io.github.OpenToonz
+com.rawtherapee.RawTherapee
+org.kde.digikam
+org.gnome.Shotwell
+org.musescore.MuseScore
+io.lmms.LMMS
+org.hydrogenmusic.Hydrogen
+org.guitarix.Guitarix
+org.jabref.jabref
+org.mozilla.Thunderbird
+org.ardour.Ardour
+org.darktable.Darktable
+org.mixxx.Mixxx

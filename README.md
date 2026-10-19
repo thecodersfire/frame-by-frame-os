@@ -25,4 +25,4 @@ The `frame-by-frame.svg` wallpaper is original. Frame by Frame OS is an independ
 See [FEATURES.md](FEATURES.md) for three local tools included for animation.
 
 
-The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.
+The installer includes fifteen additional purpose-specific applications; the complete list is in [FEATURES.md](FEATURES.md).
