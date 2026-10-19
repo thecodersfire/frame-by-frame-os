@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/frame-by-frame-os-workspace features/frame-by-frame-os-plan features/frame-by-frame-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for animation:
+
+1. **GIMP** — org.gimp.GIMP
+2. **Inkscape** — org.inkscape.Inkscape
+3. **Kdenlive** — org.kde.kdenlive
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.

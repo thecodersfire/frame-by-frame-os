@@ -24,3 +24,9 @@ The `frame-by-frame.svg` wallpaper is original. Frame by Frame OS is an independ
 
 See [FEATURES.md](FEATURES.md) for three local tools included for animation.
 
+
+The installer also includes three purpose-specific applications: **GIMP, Inkscape, Kdenlive**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GIMP, Inkscape, Kdenlive**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GIMP, Inkscape, Kdenlive**. See [FEATURES.md](FEATURES.md).
